@@ -1,7 +1,10 @@
 # OS generated files #
 ######################
 .DS_Store
+.git
 
 # Packages #
 ############
 /node_modules
+package-lock.json
+package.json
